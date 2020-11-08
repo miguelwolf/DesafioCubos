@@ -1,5 +1,10 @@
 <resources>
-    <string name="app_name">DesafioCubos</string>
+    <string name="app_name">Movies</string>
     <string name="tab_text_1">Tab 1</string>
     <string name="tab_text_2">Tab 2</string>
+    <string name="search">Procurar</string>
+    <string name="ERROR_UNEXPECTED">Um erro inesperado ocorreu. Tente novamente mais tarde.</string>
+    <string name="no_connection">Dispositivo sem conexão. Conecte-se com à internet.</string>
+    <string name="lorem_ipsum_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut turpis vitae turpis tincidunt facilisis at sed magna. Curabitur aliquet leo eget ligula faucibus auctor. Integer maximus sagittis lectus, non dictum sem scelerisque vitae. Curabitur consequat fermentum volutpat. Mauris egestas diam justo, non sagittis odio rhoncus et. Vivamus sagittis hendrerit eros eu euismod. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;</string>
+    <string name="lorem_ipsum_title">Lorem Ipsum</string>
 </resources>
